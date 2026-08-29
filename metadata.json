@@ -1,0 +1,6 @@
+{
+  "name": "سامانه جامع مدیریت هوشمند مدرسه",
+  "description": "سامانه یکپارچه و پیشرفته مدیریت امور آموزشی، دانش‌آموزان، معلمان، نمرات، حضور و غیاب و صدور کارنامه‌های ماهانه و دوره‌ای به زبان فارسی و راست‌چین",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
